@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-ext.gmsVersion = '11.4.2'
+ext.gmsVersion = '11.4.0'
 android {
     compileSdkVersion 27
     //buildToolsVersion "25.0.2"
